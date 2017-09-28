@@ -1,0 +1,1 @@
+("6.8" ("304033e13e8ecf0afc719f1cbb268eca49b4da4d" . "5a260b6011c212f53b3b5475d0cd59298e0a4ca0") (collects #"2htdp" #"image.rkt") (collects #"2htdp" #"planetcute" #"wall-block.rkt") (collects #"2htdp" #"planetcute.rkt") (collects #"2htdp" #"universe.rkt") (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
